@@ -1,10 +1,10 @@
-# Projeto de Testes Unitários com Angular 14 / Jasmine e Karma. 
+# Testes Unitários com Angular 14 / Jasmine e Karma. 
 
 ### Clonando e configurando
  Abra o prompt de comando e cole o código abaixo:
  
  ```
- git clone git@github.com:arielramosdebraga/angular-testes-unitarios.git
+ git clone https://github.com/arielramosdebraga/Angular-Testes-Unitarios.git
 ```
 
 Entre na pasta do projeto
